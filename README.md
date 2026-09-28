@@ -17,7 +17,7 @@ The TopOn Smartdigimkt ADX mediation adapter for iOS, distributed via Swift Pack
    ```
    https://github.com/toponteam-packages/TPNMediationAdxSmartdigimktAdapter_SPM
    ```
-3. Select **Exact Version** and enter the target version (e.g. `6.5.78-2.0`).
+3. Select **Exact Version** and enter the target version (e.g. `60578.2.0`).
 4. Add the `TPNMediationAdxSmartdigimktAdapter` product to your app target.
 5. In your target's **Build Settings**, add `-ObjC` to **Other Linker Flags**.
 
@@ -27,7 +27,7 @@ The TopOn Smartdigimkt ADX mediation adapter for iOS, distributed via Swift Pack
 dependencies: [
     .package(
         url: "https://github.com/toponteam-packages/TPNMediationAdxSmartdigimktAdapter_SPM.git",
-        exact: "6.5.78-2.0"
+        exact: "60578.2.0"
     )
 ]
 ```

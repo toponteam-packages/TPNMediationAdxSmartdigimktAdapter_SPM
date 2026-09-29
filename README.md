@@ -6,7 +6,7 @@ The TopOn Smartdigimkt ADX mediation adapter for iOS, distributed via Swift Pack
 
 - iOS 12.0+
 - Xcode 15.0+
-- TopOn iOS Core SDK (`TPNiOS`) 6.5.0+
+- TopOn iOS Core SDK (`TPNiOS`) 6.5.60+
 
 ## Installation
 
@@ -34,7 +34,7 @@ dependencies: [
 
 ## Included dependencies
 
-- [`TPNiOS`](https://github.com/toponteam-packages/TPNiOS_SPM) (>= 6.5.0)
+- [`TPNiOS`](https://github.com/toponteam-packages/TPNiOS_SPM) (>= 6.5.60)
 - [`SmartdigimktSDK`](https://github.com/toponteam-packages/SmartdigimktSDK_SPM)
 
 ## More information

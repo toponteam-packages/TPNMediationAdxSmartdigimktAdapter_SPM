@@ -12,7 +12,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/toponteam-packages/TPNiOS_SPM.git", from: "6.5.60"),
-        .package(url: "https://github.com/toponteam-packages/SmartdigimktSDK_SPM.git", exact: "6.5.78")
+        .package(url: "hhttps://gitee.com/zhouhanhao/SmartdigimktSDK_SPM.git", exact: "6.5.85")
     ],
     targets: [
         .binaryTarget(
